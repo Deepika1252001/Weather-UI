@@ -37,7 +37,7 @@ Upon page load, the weather data will populate with the last search or "San Anto
 
 ## Deployment
 
-Visit the website: [Weather Dashboard](https://wheather-dashboard.vercel.app/))
+Visit the website: [Weather Dashboard](https://weather-ui-red.vercel.app/)
 
 ## Screenshot
 
